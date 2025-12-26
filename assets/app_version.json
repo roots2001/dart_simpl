@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "version_num": 10000,
+    "version_desc": "- 添加搜索历史功能\n- 移动端：实现搜索历史的展示、选择、删除和清空\n- TV端：在搜索对话框中集成搜索历史\n- 支持自动去重，最新搜索记录置顶\n- 限制历史记录数量为20条",
+    "prerelease": false,
+    "download_url": "https://github.com/roots2001/dart_simpl/releases"
+}
